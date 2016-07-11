@@ -1,0 +1,9 @@
+c:\users\rave\documents\visual studio 2015\Projects\Video\Video\bin\Debug\Video.exe.config
+c:\users\rave\documents\visual studio 2015\Projects\Video\Video\bin\Debug\Video.exe
+c:\users\rave\documents\visual studio 2015\Projects\Video\Video\bin\Debug\Video.pdb
+c:\users\rave\documents\visual studio 2015\Projects\Video\Video\obj\Debug\Video.csprojResolveAssemblyReference.cache
+c:\users\rave\documents\visual studio 2015\Projects\Video\Video\obj\Debug\Video.Form1.resources
+c:\users\rave\documents\visual studio 2015\Projects\Video\Video\obj\Debug\Video.Properties.Resources.resources
+c:\users\rave\documents\visual studio 2015\Projects\Video\Video\obj\Debug\Video.csproj.GenerateResource.Cache
+c:\users\rave\documents\visual studio 2015\Projects\Video\Video\obj\Debug\Video.exe
+c:\users\rave\documents\visual studio 2015\Projects\Video\Video\obj\Debug\Video.pdb
